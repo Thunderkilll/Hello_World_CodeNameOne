@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="GUI 1" cloudDestinationProperty="GUI 1" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="4" flowLayoutValign="4" title="App Name" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <component type="TextField" name="tfNom" cloudBoundProperty="text" cloudDestinationProperty="tfNom" uiid="tfNom" text="TextField" >
+    </component>
+    <component type="Button" name="Button" cloudDestinationProperty="Button" text="Button" >
+    </component>
+  </component>
+</component>
